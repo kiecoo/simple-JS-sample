@@ -16,7 +16,7 @@
 ## (C) this的四種綁定規則：
 #### (C-1) new構造函數
 #### ① 無return ＝>自動return 新對象
-```
+```js
 function User(){
     this.name = "amy";  // this绑定到obj上
     console.log(this)
@@ -27,4 +27,15 @@ User(); //this是windows
 var obj = new User(); //User{name: "amy"}  //新對象(obj＝甲)綁定到此函數(User)的this上
 console.log(obj) //User{name: "amy"}
 obj.name; //"amy"
+```
+#### ① 有return值 ＝> this指向乙
+```js
+function User(){
+    this.name = "amy";
+    return {name:"Bob"}; // return 乙對象{name:"Bob"}
+}
+
+var obj = new User(); 
+console.log(obj) //{name:"Bob"}
+obj.name;   //Bob
 ```
