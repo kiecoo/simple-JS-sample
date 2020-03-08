@@ -15,6 +15,21 @@
 ---
 ## (C) this的四種綁定規則：
 #### (C-1) new構造函數
+```js
+// a-用new 調用
+function User(name) {
+    this.name = name;
+    console.log(this)  //User {name: "Amy"}
+}
+var obj = new User('Amy');
+---------
+// b-不用new 調用
+function User(name) {
+    this.name = name;
+    console.log(this)  //Window
+}
+User('Amy')
+```
 #### ① 無return ＝>自動return 新對象
 ```js
 function User(){
