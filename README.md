@@ -34,12 +34,12 @@ User('Amy')
 ```js
 function User(){
     this.name = "amy";  // this绑定到obj上
-    console.log(this)
+    console.log(this)  //User{name: "amy"} 
 }
 
 User(); //this是windows 
 
-var obj = new User(); //User{name: "amy"}  //新對象(obj＝甲)綁定到此函數(User)的this上
+var obj = new User();  //新對象(obj＝甲)綁定到此函數(User)的this上
 console.log(obj) //User{name: "amy"}
 obj.name; //"amy"
 ```
