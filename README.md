@@ -55,3 +55,4 @@ console.log(obj) //{name:"Bob"}
 obj.name;   //Bob
 ```
 #### (C-2) apply、call或bind
+fn.call(obj, 'arg1', 'arg2');
