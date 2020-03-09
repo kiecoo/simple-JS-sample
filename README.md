@@ -60,3 +60,8 @@ fn.call(obj, 'arg1', 'arg2');
 fn.apply(obj, ['arg1', 'arg2']);
 fn.bind(obj, 'arg1', 'arg2')();
 ```
+function User(name, luckyNum) {
+  this.name = name;
+  this.luckyNum = luckyNum;
+  console.log(this);
+}
