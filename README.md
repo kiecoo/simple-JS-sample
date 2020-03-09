@@ -57,3 +57,4 @@ obj.name;   //Bob
 #### (C-2) apply、call或bind
 fn.call(obj, 'arg1', 'arg2');
 fn.apply(obj, ['arg1', 'arg2']);
+fn.bind(obj, 'arg1', 'arg2')();
