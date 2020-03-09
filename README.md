@@ -70,4 +70,11 @@ var obj = {
   name: 'Bob',
   luckyNum: 6
 };
+
+User.call(obj, 'Amy', 10);
+
+User.apply(obj, ['Amy', 10]);
+
+var u1 = User.bind(obj, 'Amy', 10)
+var u2 = new u1();
 ```
