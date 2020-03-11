@@ -73,7 +73,7 @@ var obj = {
 
 //①
 User.call(obj, 'Amy', 10);
-
+//②
 User.apply(obj, ['Amy', 10]);
 
 var u1 = User.bind(obj, 'Amy', 10)
