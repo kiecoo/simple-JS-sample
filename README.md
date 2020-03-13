@@ -56,7 +56,7 @@ obj.name;   //Bob
 ```
 #### (C-2) apply、call、bind
 ```js
-fn.call(obj, 'arg1', 'arg2');
+fn.call(obj, 'arg1', 'arg2'); //① call
 fn.apply(obj, ['arg1', 'arg2']);
 fn.bind(obj, 'arg1', 'arg2')();
 ```
