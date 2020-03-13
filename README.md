@@ -54,7 +54,7 @@ var obj = new User();
 console.log(obj) //{name:"Bob"}
 obj.name;   //Bob
 ```
-#### (C-2) apply、call或bind
+#### (C-2) apply、call、bind
 ```js
 fn.call(obj, 'arg1', 'arg2');
 fn.apply(obj, ['arg1', 'arg2']);
