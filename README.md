@@ -58,7 +58,7 @@ obj.name;   //Bob
 ```js
 fn.call(obj, 'arg1', 'arg2'); //① call
 fn.apply(obj, ['arg1', 'arg2']); //② apply
-fn.bind(obj, 'arg1', 'arg2')();
+fn.bind(obj, 'arg1', 'arg2')(); //③ bind
 ```
 ```js
 function User(name, luckyNum) {
