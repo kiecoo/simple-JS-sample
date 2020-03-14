@@ -71,7 +71,7 @@ var obj = {
   luckyNum: 6
 };
 
-//① call
+//1. call
 User.call(obj, 'Amy', 10);
 //2. apply
 User.apply(obj, ['Amy', 10]);
