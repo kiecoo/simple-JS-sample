@@ -14,7 +14,7 @@
 - 誰"調用"它，this 就指向誰 (arrow Function 除外)
 ---
 ## (C) this 的四種綁定規則：
-#### (C-1) new構造函數
+#### (C-1) new 構造函數
 ```js
 // a-用new 調用
 function User(name) {
