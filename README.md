@@ -33,7 +33,7 @@ User('Amy')
 #### 1 無 return ＝> 自動 return 新對象
 ```js
 function User(){
-    this.name = "amy";  // this 绑定到obj上
+    this.name = "amy";  // this 绑定到 obj上
     console.log(this)  //User{name: "amy"} 
 }
 
