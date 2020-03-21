@@ -34,7 +34,7 @@ User('Amy')
 ```js
 function User(){
     this.name = "amy";  // this 绑定到 obj 上
-    console.log(this)  //User{name: "amy"} 
+    console.log(this)  // User{name: "amy"} 
 }
 
 User(); //this 是 window
