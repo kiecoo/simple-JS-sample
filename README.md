@@ -3,7 +3,7 @@
 # 淺顯易懂的 keyword this
 ## (A) summary
 #### (A-1) 優先順序
-0. <例外> arrow Function 
+0. < 例外> arrow Function 
 1. new 構造函數
 2. apply、call、bind
 3. obj 調用
