@@ -7,7 +7,7 @@
 1. new 構造函數
 2. apply、call、bind
 3. obj 調用
-4. 普通調用（ 非 obj 調用）
+4. 普通調用（ 非 obj 調用 ）
 
 ---
 ## (B) 概念
