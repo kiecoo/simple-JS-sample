@@ -51,7 +51,7 @@ function User(){
 }
 
 var obj = new User(); 
-console.log(obj) //{ name:"Bob"}
+console.log(obj) // { name:"Bob"}
 obj.name;   //Bob
 ```
 #### (C-2) apply、call、bind
