@@ -73,7 +73,7 @@ var obj = {
 
 //  1. call
 User.call(obj, 'Amy', 10);
-// 2. apply
+//  2. apply
 User.apply(obj, ['Amy', 10]);
 // 3. bind
 var u1 = User.bind(obj, 'Amy', 10)
