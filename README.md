@@ -26,7 +26,7 @@ var obj = new User('Amy');
 // b-不用 new 調用
 function User(name) {
     this.name = name;
-    console.log(this)  //Window
+    console.log(this)  // Window
 }
 User('Amy')
 ```
