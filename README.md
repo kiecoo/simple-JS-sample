@@ -19,7 +19,7 @@
 // a-用 new 調用
 function User(name) {
     this.name = name;
-    console.log(this)  //User {name: "Amy"}
+    console.log(this)  // User {name: "Amy"}
 }
 var obj = new User('Amy');
 ---------
