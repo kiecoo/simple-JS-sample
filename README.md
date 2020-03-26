@@ -1,7 +1,7 @@
 # simple JS sample
 ---
 # 淺顯易懂的 keyword this
-## (A) summary 結
+## (A) summary 總結
 #### (A-1) 優先順序
 0. < 例外 > arrow Function 
 1. new 構造函數
