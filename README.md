@@ -81,6 +81,6 @@ var u2 = new u1();
 ```
 ---
 ## list
-1. callback
+1. callback 回呼函式
 2. Promise
 3. Async/Await
