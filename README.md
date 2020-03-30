@@ -87,3 +87,4 @@ var u2 = new u1();
 ---
 # Vue
 - v-bind
+- v-on
