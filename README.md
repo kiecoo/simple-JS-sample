@@ -86,3 +86,4 @@ var u2 = new u1();
 3. Async/Await
 ---
 # Vue
+- v-bind
