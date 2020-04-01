@@ -90,3 +90,4 @@ var u2 = new u1();
 - v-on
 - v-model
 - Prop 
+- Emit
