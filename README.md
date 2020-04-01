@@ -91,3 +91,4 @@ var u2 = new u1();
 - v-model
 - Prop 
 - Emit
+- Mixin
