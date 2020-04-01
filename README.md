@@ -92,3 +92,4 @@ var u2 = new u1();
 - Prop 
 - Emit
 - Mixin
+- Slot 
