@@ -94,3 +94,4 @@ var u2 = new u1();
 - Mixin
 - Slot 
 - Vuex
+- Module
