@@ -95,3 +95,4 @@ var u2 = new u1();
 - Slot 
 - Vuex
 - Module
+- Vue Router
