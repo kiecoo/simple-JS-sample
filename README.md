@@ -97,3 +97,4 @@ var u2 = new u1();
 - Module
 - Vue Router
 - Watch
+- Life Cycle
