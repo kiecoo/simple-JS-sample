@@ -96,3 +96,4 @@ var u2 = new u1();
 - Vuex
 - Module
 - Vue Router
+- Watch
