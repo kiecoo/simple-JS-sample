@@ -98,3 +98,4 @@ var u2 = new u1();
 - Vue Router
 - Watch
 - Life Cycle
+- ES6 (in Vue)
