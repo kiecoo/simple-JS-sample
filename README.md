@@ -95,7 +95,7 @@ var u2 = new u1();
 - Slot 
 - Vuex
 - Module
-- Vue Router
+- Vue Router (mode history)
 - Watch
 - Life Cycle
 - ES6 (in Vue): Spread Operator
