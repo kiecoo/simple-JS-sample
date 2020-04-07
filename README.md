@@ -85,6 +85,7 @@ var u2 = new u1();
 2. Promise
 3. Async/Await
 4. Prototype
+5. class
 ---
 # Vue
 - v-bind
