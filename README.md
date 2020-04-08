@@ -88,6 +88,7 @@ var u2 = new u1();
 5. class
 6. Prototype Chain
 7. Module
+8. Deep Copy
 ---
 # Vue
 - v-bind
