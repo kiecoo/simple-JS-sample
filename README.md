@@ -86,6 +86,7 @@ var u2 = new u1();
 3. Async/Await
 4. Prototype
 5. class
+6. Prototype Chain
 ---
 # Vue
 - v-bind
