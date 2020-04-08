@@ -87,6 +87,7 @@ var u2 = new u1();
 4. Prototype
 5. class
 6. Prototype Chain
+7. Module
 ---
 # Vue
 - v-bind
