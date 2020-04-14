@@ -100,7 +100,7 @@ var u2 = new u1();
 - Emit
 - Mixin
 - Slot 
-- Vuex (State )
+- Vuex (State / Getters  )
 - Module
 - Vue Router ( query / params )
 - Watch
