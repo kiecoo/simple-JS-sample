@@ -104,6 +104,6 @@ var u2 = new u1();
 - Module
 - Vue Router ( query / params )
 - Watch
-- Life Cycle
+- Life Cycle / hooks
 - ES6 (in Vue): Spread Operator
 - UI
