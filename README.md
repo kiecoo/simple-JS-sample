@@ -2,7 +2,7 @@
 ---
 # 淺顯易懂的 keyword `this`
 ## (A) summary 
-#### (A-1) 優先順序
+#### (A-1) Priority
 0. < 例外 > arrow Function 
 1. new 構造函數 (創建)
 2. apply、call、bind
