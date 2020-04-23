@@ -1,6 +1,6 @@
 # simple JS sample
 ---
-# 淺顯易懂的 keyword `this`
+# 淺顯易懂 keyword `this`
 ## (A) summary 
 #### (A-1) Priority
 0. < 例外 > arrow Function 
