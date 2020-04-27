@@ -76,6 +76,7 @@ User.call(obj, 'Amy', 10);
 
 //  2. apply
 User.apply(obj, ['Amy', 10]);
+
 //  3. bind
 var u1 = User.bind(obj, 'Amy', 10)
 var u2 = new u1();
