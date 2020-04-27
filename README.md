@@ -66,6 +66,7 @@ function User(name, luckyNum) {
   this.luckyNum = luckyNum;
   console.log(this);
 }
+
 var obj = {
   name: 'Bob',
   luckyNum: 6
