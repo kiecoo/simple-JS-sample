@@ -97,7 +97,7 @@ var u2 = new u1();
 9. RESTful
 10. Fetch
 ---
-# Vue
+## Vue
 - v-bind
 - v-on
 - v-model
