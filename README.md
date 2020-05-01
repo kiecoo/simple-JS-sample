@@ -49,7 +49,7 @@ obj.name; //"amy"
 ```js
 function User(){
     this.name = "amy";
-    return {name:"Bob"}; // return 乙對象{name:"Bob"}
+    return {name:"Bob"}; // return 乙對象 {name:"Bob"}
 }
 
 var obj = new User(); 
