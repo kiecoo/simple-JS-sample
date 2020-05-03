@@ -85,7 +85,7 @@ var u1 = User.bind(obj, 'Amy', 10)
 var u2 = new u1();
 ```
 ---
-## list
+## List
 1. callback （回呼函式）
 2. Promise
 3. Async/Await
