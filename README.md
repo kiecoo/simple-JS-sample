@@ -24,6 +24,7 @@ function User(name) {
     console.log(this)  // User {name: "Amy"}
 }
 var obj = new User('Amy');
+
 ---------
 // b-不用 new 調用
 function User(name) {
