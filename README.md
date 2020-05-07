@@ -65,6 +65,7 @@ fn.apply(obj, ['arg1', 'arg2']); // 2. apply
 fn.bind(obj, 'arg1', 'arg2')(); // 3. bind
 ```
 ```js
+
 function User(name, luckyNum) {
   this.name = name;
   this.luckyNum = luckyNum;
