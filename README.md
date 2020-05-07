@@ -46,7 +46,7 @@ var obj = new User();  //新對象(obj＝甲)綁定到此函數(User)的this
 console.log(obj) // User{name: "amy"}
 obj.name; //"amy"
 ```
-#### 2 有 return 值 ＝> this 指向乙
+#### 2 有 return 值 ＝> this 指向 乙
 ```js
 function User(){
     this.name = "amy";
