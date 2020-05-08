@@ -24,6 +24,7 @@ function User(name) {
     this.name = name;
     console.log(this)  // User {name: "Amy"}
 }
+
 var obj = new User('Amy');
 
 ---------
