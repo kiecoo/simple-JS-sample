@@ -18,6 +18,7 @@
 ## (C) this 四種綁定規則
 #### (C-1) new 構造函數
 ```js
+
 // a-用 new 調用
 function User(name) {
     this.name = name;
