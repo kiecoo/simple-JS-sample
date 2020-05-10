@@ -35,6 +35,7 @@ function User(name) {
 }
 
 User('Amy')
+
 ```
 #### 1 無 return ＝> 自動 return 新對象
 ```js
