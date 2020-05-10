@@ -28,6 +28,7 @@ function User(name) {
 var obj = new User('Amy');
 
 ---------
+
 // b-不用 new 調用
 function User(name) {
     this.name = name;
