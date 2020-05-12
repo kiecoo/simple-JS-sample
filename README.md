@@ -129,4 +129,6 @@ var u2 = new u1();
 - Axios (in Vue)
 ## 資源
 - [隨機圖產生器](https://picsum.photos/)
+```
 <img src="https://picsum.photos/80?random=1">
+```
