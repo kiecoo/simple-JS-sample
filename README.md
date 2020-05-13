@@ -131,4 +131,5 @@ var u2 = new u1();
 - [隨機圖產生器](https://picsum.photos/)
 ```
 <img src="https://picsum.photos/80?random=1">
+<img src="https://fakeimg.pl/350x200/ff0000/000">
 ```
