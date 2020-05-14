@@ -128,7 +128,7 @@ var u2 = new u1();
 - UI
 - Axios (in Vue)
 ## 資源
-- [隨機圖產生器](https://picsum.photos/)（VScode）
+- [隨機圖產生器](https://picsum.photos/)（VScode 快捷鍵）
 ```
 <img src="https://picsum.photos/80?random=1">
 <img src="https://fakeimg.pl/350x200/ff0000/000">
