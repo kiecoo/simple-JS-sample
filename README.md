@@ -113,6 +113,7 @@ var u2 = new u1();
 9. RESTful
 10. Fetch
 11. 正規
+
 ---
 
 ## Vue
