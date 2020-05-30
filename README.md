@@ -48,7 +48,7 @@ function User(){
     console.log(this)  // User {name: "amy"} 
 }
 
-User(); //this 是 window
+User();   //this 是 window
 
 var obj = new User();  //新對象(obj＝甲)綁定到此函數(User)的this
 console.log(obj) // User{name: "amy"}
