@@ -145,5 +145,6 @@ var u2 = new u1();
 <img src="https://picsum.photos/80?random=1">
 <img src="https://fakeimg.pl/350x200/ff0000/000">
 ```
+
 # others
 - Scss (mixin   function   extend  variable)
