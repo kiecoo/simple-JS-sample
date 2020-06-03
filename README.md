@@ -138,6 +138,7 @@ var u2 = new u1();
 - ES6 (in Vue): Spread Operator
 - UI
 - Axios (in Vue)
+
 ## 資源
 - [隨機圖產生器](https://picsum.photos/)（Fake Image Snippet Collection 外掛 in VScode :輸入 picsum 即可）
 ```
