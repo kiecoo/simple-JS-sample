@@ -107,6 +107,7 @@ var u2 = new u1();
 
 ```
 ---
+
 ## List
 1. callback （回呼函式）
 2. Promise
