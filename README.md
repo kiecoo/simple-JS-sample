@@ -59,6 +59,7 @@ console.log(obj) // User{name: "amy"}
 obj.name; //"amy"
 
 ```
+
 #### 2 有 return 值 ＝> this 指向 乙
 
 ```js
