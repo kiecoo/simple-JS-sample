@@ -108,6 +108,7 @@ var u1 = User.bind(obj, 'Amy', 10)
 var u2 = new u1();
 
 ```
+
 ---
 
 ## List
