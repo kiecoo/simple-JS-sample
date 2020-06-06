@@ -141,6 +141,7 @@ var u2 = new u1();
 - Vue Router ( query / params )
 - Watch
 - Life Cycle ( hooks )
+
 - ES6 (in Vue): Spread Operator
 - UI
 - Axios (in Vue)
