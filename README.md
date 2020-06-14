@@ -127,7 +127,7 @@ var u2 = new u1();
 9. RESTful
 10. Fetch
 11. 正規
-12. arrFn
+12. arrFn (沒有自己的this、arguments、super、new.target )
 
 ---
 
