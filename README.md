@@ -147,6 +147,11 @@ var u2 = new u1();
 - vue 3
 
 - ES6 (in Vue): Spread Operator . Destructuring assignment
+
+```
+//wrong
+{a, b} = {a: 1, b: 2}
+```
 - UI
 - Axios (in Vue)
 
