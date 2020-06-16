@@ -151,6 +151,10 @@ var u2 = new u1();
 ```
 //wrong
 {a, b} = {a: 1, b: 2}
+
+//correct
+({a, b} = {a: 1, b: 2}) 
+
 ```
 - UI
 - Axios (in Vue)
