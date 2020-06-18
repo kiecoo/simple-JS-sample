@@ -146,7 +146,7 @@ var u2 = new u1();
 - Life Cycle ( hooks )
 - vue 3
 
-- ES6 (in Vue): Spread Operator . Destructuring assignment . Class . Module
+- ES6 (in Vue): Spread Operator . Destructuring assignment . Class . Module .Scope
 
 ```
 //wrong
