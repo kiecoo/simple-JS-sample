@@ -135,8 +135,7 @@ var u2 = new u1();
 - v-bind
 - v-on
 - v-model
-- Prop 
-- Emit
+- Prop . Emit
 - Mixin
 - Slot 
 - Vuex ( State / Getters / Mutations / Actions )
