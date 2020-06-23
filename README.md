@@ -167,4 +167,4 @@ var u2 = new u1();
 ```
 
 # others
-- Scss (mixin   function   extend  variable)
+- Scss (mixin ,  function  ,   extend ,   variable)
