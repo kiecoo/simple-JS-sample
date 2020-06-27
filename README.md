@@ -170,4 +170,6 @@ var u2 = new u1();
 - Scss (mixin ,  function  ,   extend ,   variable)
 ```
 @mixin name(<arguments...>) { ... }
+
+@include <name>(<arguments...>)
 ```
