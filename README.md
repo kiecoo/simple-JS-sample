@@ -141,7 +141,7 @@ var u2 = new u1();
 - Vuex ( State / Getters / Mutations / Actions )
 - Module
 - Vue Router ( query / params )
-- Watch
+- [Watch](https://vuejs.org/v2/api/#vm-watch)
 ```
 vm.$watch( expOrFn, callback, [options] )
 ```
