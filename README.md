@@ -142,6 +142,8 @@ var u2 = new u1();
 - Module
 - Vue Router ( query / params )
 - Watch
+```
+```
 - Life Cycle ( Hook function )
 - vue 3
 
