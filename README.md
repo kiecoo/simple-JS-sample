@@ -143,6 +143,7 @@ var u2 = new u1();
 - Vue Router ( query / params )
 - Watch
 ```
+vm.$watch( expOrFn, callback, [options] )
 ```
 - Life Cycle ( Hook function )
 - vue 3
