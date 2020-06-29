@@ -142,7 +142,7 @@ var u2 = new u1();
 - Module
 - Vue Router ( query / params )
 - Watch
-- Life Cycle ( Hook function)
+- Life Cycle ( Hook function )
 - vue 3
 
 - ES6 (in Vue): Spread Operator . Destructuring assignment . Class ( constructor , ...... ) . Module .Scope
