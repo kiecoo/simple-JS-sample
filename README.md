@@ -126,7 +126,7 @@ var u2 = new u1();
 8. Deep Copy
 9. RESTful
 10. Fetch
-11. 正規
+11. 正則
 12. arrFn (沒有自己的this、arguments、super、new.target )
 
 ---
