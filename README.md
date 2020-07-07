@@ -120,7 +120,7 @@ var u2 = new u1();
 2. Promise
 3. Async/Await
 4. Prototype
-5. class
+5. [class](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Classes)
 6. Prototype Chain
 7. Module
 8. Deep Copy
