@@ -136,7 +136,7 @@ var u2 = new u1();
 - v-on
 - v-model
 - Prop . Emit
-- Mixin
+- [Mixin](https://vuejs.org/v2/guide/mixins.html)
 - Slot 
 - Vuex ( State / Getters / Mutations / Actions )
 - Module
