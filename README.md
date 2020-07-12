@@ -137,7 +137,7 @@ var u2 = new u1();
 - v-model
 - Prop . Emit
 - [Mixin](https://vuejs.org/v2/guide/mixins.html)
-- Slot 
+- [Slot](https://vuejs.org/v2/guide/components-slots.html) 
 - Vuex ( State / Getters / Mutations / Actions )
 - Module
 - Vue Router ( query / params )
