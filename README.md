@@ -138,7 +138,7 @@ var u2 = new u1();
 - Prop . Emit
 - [Mixin](https://vuejs.org/v2/guide/mixins.html)
 - [Slot](https://vuejs.org/v2/guide/components-slots.html) 
-- Vuex ( State / Getters / Mutations / Actions )
+- [Vuex](https://vuex.vuejs.org/guide/) ( State / Getters / Mutations / Actions )
 - Module
 - Vue Router ( query / params )
 - [Watch](https://vuejs.org/v2/api/#vm-watch)
