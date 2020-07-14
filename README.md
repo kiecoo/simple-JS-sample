@@ -139,7 +139,7 @@ var u2 = new u1();
 - [Mixin](https://vuejs.org/v2/guide/mixins.html)
 - [Slot](https://vuejs.org/v2/guide/components-slots.html) 
 - [Vuex](https://vuex.vuejs.org/guide/) ( State / Getters / Mutations / Actions )
-- Module
+- [Module](https://vuex.vuejs.org/guide/modules.html)
 - [Vue Router](https://router.vuejs.org/) ( query / params )
 - [Watch](https://vuejs.org/v2/api/#vm-watch)
 ```
