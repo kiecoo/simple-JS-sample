@@ -140,7 +140,7 @@ var u2 = new u1();
 - [Slot](https://vuejs.org/v2/guide/components-slots.html) 
 - [Vuex](https://vuex.vuejs.org/guide/) ( State / Getters / Mutations / Actions )
 - Module
-- Vue Router ( query / params )
+- [Vue Router](https://router.vuejs.org/) ( query / params )
 - [Watch](https://vuejs.org/v2/api/#vm-watch)
 ```
 vm.$watch( expOrFn, callback, [options] )
