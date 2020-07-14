@@ -135,7 +135,7 @@ var u2 = new u1();
 - v-bind
 - v-on
 - v-model
-- Prop . Emit
+- [Prop](https://vuejs.org/v2/guide/components-props.html) . Emit
 - [Mixin](https://vuejs.org/v2/guide/mixins.html)
 - [Slot](https://vuejs.org/v2/guide/components-slots.html) 
 - [Vuex](https://vuex.vuejs.org/guide/) ( State / Getters / Mutations / Actions )
