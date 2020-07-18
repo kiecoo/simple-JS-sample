@@ -133,7 +133,7 @@ var u2 = new u1();
 
 ## Vue
 - [v-bind](https://vuejs.org/v2/guide/class-and-style.html)
-- v-on
+- [v-on](https://vuejs.org/v2/guide/events.html)
 - [v-model](https://vuejs.org/v2/guide/forms.html)
 - [Prop](https://vuejs.org/v2/guide/components-props.html) . [Emit](https://vuejs.org/v2/guide/components-custom-events.html)
 - [Mixin](https://vuejs.org/v2/guide/mixins.html)
