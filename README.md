@@ -146,7 +146,7 @@ var u2 = new u1();
 vm.$watch( expOrFn, callback, [options] )
 ```
 - Life Cycle ( Hook function )
-- vue 3
+- vue 3 （ composition api ）
 
 - ES6 (in Vue): Spread Operator . Destructuring assignment . Class ( constructor , ...... ) . Module .Scope
 
