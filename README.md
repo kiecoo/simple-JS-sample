@@ -1,6 +1,6 @@
 # simple JS sample
 ---
-# keyword `this`
+# keyword `this`＆ Vue
 
 ## (A) summary 
 #### (A-1)  Priority
