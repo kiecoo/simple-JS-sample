@@ -159,7 +159,7 @@ vm.$watch( expOrFn, callback, [options] )
 
 ```
 - UI
-- Axios (in Vue)
+- [Axios](https://vuejs.org/v2/cookbook/using-axios-to-consume-apis.html) (in Vue)
 
 ## 資源
 - [隨機圖產生器](https://picsum.photos/)（Fake Image Snippet Collection 外掛 in VScode :輸入 picsum 即可）
