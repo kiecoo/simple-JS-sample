@@ -145,7 +145,7 @@ var u2 = new u1();
 ```
 vm.$watch( expOrFn, callback, [options] )
 ```
-- Life Cycle ( Hook function )
+- [Life Cycle](https://vuejs.org/v2/guide/instance.html#Instance-Lifecycle-Hooks) ( Hook function )
 - vue 3 （ [composition api](https://composition-api.vuejs.org/#api-introduction) . $attrs . conditional rendering . communicating Events . Event Handling ）
 
 - ES6 (in Vue): Spread Operator . Destructuring assignment . Class ( constructor , ...... ) . Module .Scope
