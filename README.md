@@ -142,6 +142,7 @@ var u2 = new u1();
 - [Module](https://vuex.vuejs.org/guide/modules.html)
 - [Vue Router](https://router.vuejs.org/) ( query / params )
 - [Watch](https://vuejs.org/v2/api/#vm-watch)
+- slot
 ```
 vm.$watch( expOrFn, callback, [options] )
 ```
