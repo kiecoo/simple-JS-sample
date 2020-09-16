@@ -135,6 +135,7 @@ var u2 = new u1();
 - [v-bind](https://vuejs.org/v2/guide/class-and-style.html)
 - [v-on](https://vuejs.org/v2/guide/events.html)
 - [v-model](https://vuejs.org/v2/guide/forms.html)
+- computed
 - [Prop](https://vuejs.org/v2/guide/components-props.html) ([Prop Validation](https://vuejs.org/v2/guide/components-props.html#Prop-Validation). [$attrs](https://vuejs.org/v2/guide/components-props.html#Disabling-Attribute-Inheritance)). [Emit](https://vuejs.org/v2/guide/components-custom-events.html)（[.native](https://vuejs.org/v2/guide/components-custom-events.html#Binding-Native-Events-to-Components) & [.sync](https://vuejs.org/v2/guide/components-custom-events.html#sync-Modifier)）
 - [Mixin](https://vuejs.org/v2/guide/mixins.html)
 - [Slot](https://vuejs.org/v2/guide/components-slots.html) 
