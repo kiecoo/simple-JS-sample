@@ -142,7 +142,7 @@ var u2 = new u1();
 - [Slot](https://vuejs.org/v2/guide/components-slots.html) 
 - [Vuex](https://vuex.vuejs.org/guide/) ( State / [Getters](https://vuex.vuejs.org/zh/guide/getters.html) / [Mutations](https://vuex.vuejs.org/zh/guide/mutations.html) / [Actions](https://vuex.vuejs.org/guide/actions.html) )（namespace）
 - [Module](https://vuex.vuejs.org/guide/modules.html)
-- [Vue Router](https://router.vuejs.org/) ( query / params )
+- [Vue Router](https://router.vuejs.org/) ( query / params . Navigation Guards)
 - [Watch](https://vuejs.org/v2/api/#vm-watch)
 - [slot](https://vuejs.org/v2/guide/components-slots.html)(v-slot . [Scoped Slots](https://vuejs.org/v2/guide/components-slots.html#Named-Slots))
 ```
