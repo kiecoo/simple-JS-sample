@@ -118,7 +118,7 @@ var u2 = new u1();
 ## (D) List
 1. callback （回呼函式）
 2. [Promise](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Promise)
-3. Async/Await
+3. [Async/Await](https://zhuanlan.zhihu.com/p/72036724)
 4. Prototype
 5. [class](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Classes)
 6. Prototype Chain
