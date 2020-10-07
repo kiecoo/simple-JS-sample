@@ -126,7 +126,7 @@ var u2 = new u1();
 8. Deep Copy
 9. RESTful
 10. [Fetch](https://developer.mozilla.org/zh-TW/docs/Web/API/Fetch_API/Using_Fetch)
-11. 正則 Regular Expression
+11. 正則 [Regular Expression](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Guide/Regular_Expressions)
 12. arrFn (沒有自己的this、arguments、super、new.target )
 
 ---
