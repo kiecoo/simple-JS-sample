@@ -128,7 +128,7 @@ var u2 = new u1();
 10. [Fetch](https://developer.mozilla.org/zh-TW/docs/Web/API/Fetch_API/Using_Fetch)
 11. 正則 [Regular Expression](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Guide/Regular_Expressions)
 12. [arrFn](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Functions/Arrow_functions) (沒有自己的this、[arguments](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Functions/arguments)、super、new.target )
-13. [setTimeout](https://developer.mozilla.org/zh-CN/docs/Web/API/Window/setTimeout)、
+13. [setTimeout](https://developer.mozilla.org/zh-CN/docs/Web/API/Window/setTimeout)、setInterval
 
 ---
 
