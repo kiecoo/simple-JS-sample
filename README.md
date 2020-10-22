@@ -152,7 +152,7 @@ vm.$watch( expOrFn, callback, [options] )
 - [Life Cycle](https://vuejs.org/v2/guide/instance.html#Instance-Lifecycle-Hooks) ( [Hook function](https://vuejs.org/v2/api/#Options-Lifecycle-Hooks) )
 - vue 3 （ [composition api](https://composition-api.vuejs.org/#api-introduction) . $attrs . conditional rendering . communicating Events . Event Handling ）
 
-- [ES6](https://es6.ruanyifeng.com/) (in Vue): [Spread Operator](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Spread_syntax) . Destructuring assignment . Class ( constructor , ...... ) . Module .Scope
+- [ES6](https://es6.ruanyifeng.com/) (in Vue): [Spread Operator](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Spread_syntax) . [Destructuring assignment](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment) . Class ( constructor , ...... ) . Module .Scope
 
 ```
 //wrong
