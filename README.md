@@ -123,7 +123,7 @@ var u2 = new u1();
 5. [class](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Classes)
 6. Prototype Chain
 7. Module
-8. Deep Copy
+8. [Deep Copy___blog](https://kanboo.github.io/2018/01/27/JS-ShallowCopy-DeepCopy/)
 9. RESTful
 10. [Fetch](https://developer.mozilla.org/zh-TW/docs/Web/API/Fetch_API/Using_Fetch)
 11. 正則 [Regular Expression](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Guide/Regular_Expressions)
