@@ -174,7 +174,7 @@ vm.$watch( expOrFn, callback, [options] )
 ```
 
 # others
-- Scss (mixin ,  function  ,   extend ,   variable)
+- [Scss](https://sass-lang.com/documentation/syntax#scss) (mixin ,  function  ,   extend ,   variable)
 ```
 @mixin name(<arguments...>) { ... }
 
