@@ -145,7 +145,7 @@ var u2 = new u1();
 - [Module](https://vuex.vuejs.org/guide/modules.html)
 - [Vue Router](https://router.vuejs.org/) ( query / [params](https://router.vuejs.org/guide/essentials/navigation.html) . [Navigation Guards](https://router.vuejs.org/guide/advanced/navigation-guards.html).  [linkActiveClass](https://router.vuejs.org/api/#linkactiveclass).  [active-class](https://router.vuejs.org/api/#active-class))
 - [Watch](https://vuejs.org/v2/api/#vm-watch)
-- [slot](https://vuejs.org/v2/guide/components-slots.html)(v-slot . [Scoped Slots](https://vuejs.org/v2/guide/components-slots.html#Named-Slots))
+- [slot](https://vuejs.org/v2/guide/components-slots.html)([v-slot](https://vuejs.org/v2/guide/components-slots.html) . [Scoped Slots](https://vuejs.org/v2/guide/components-slots.html#Named-Slots))
 ```
 vm.$watch( expOrFn, callback, [options] )
 ```
