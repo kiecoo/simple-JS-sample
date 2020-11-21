@@ -152,7 +152,7 @@ vm.$watch( expOrFn, callback, [options] )
 - [Life Cycle](https://vuejs.org/v2/guide/instance.html#Instance-Lifecycle-Hooks) ( [Hook function](https://vuejs.org/v2/api/#Options-Lifecycle-Hooks) )
 - [vue 3](https://v3.vuejs.org/guide/introduction.html) （ [composition api](https://composition-api.vuejs.org/#api-introduction) . [$attrs](https://v3.vuejs.org/guide/migration/attrs-includes-class-style.html#_3-x-behavior) . [conditional rendering](https://v3.vuejs.org/guide/conditional.html#conditional-rendering) . communicating Events . [Event Handling](https://v3.vuejs.org/guide/events.html) .  [Class and Style Bindings](https://v3.vuejs.org/guide/class-and-style.html) ）
 
-- [ES6](https://es6.ruanyifeng.com/) (in Vue): [Spread Operator](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Spread_syntax) . [Destructuring assignment](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment) . Class ( constructor , ...... ) . Module .Scope
+- [ES6](https://es6.ruanyifeng.com/) (in Vue): [Spread Operator](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Spread_syntax) . [Destructuring assignment](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment) . [Class](https://github.com/ruanyf/es6tutorial/blob/04dddb2d7c34cbcd90a0bd1f027835bd744bf827/docs/class.md) ( constructor , ...... ) . Module .Scope
 
 ```
 //wrong
