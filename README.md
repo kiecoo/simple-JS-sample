@@ -124,7 +124,7 @@ var u2 = new u1();
 6. Prototype Chain
 7. Module
 8. [Deep Copy___blog](https://kanboo.github.io/2018/01/27/JS-ShallowCopy-DeepCopy/)
-9. RESTful
+9. [RESTful](https://medium.com/itsems-frontend/api-%E6%98%AF%E4%BB%80%E9%BA%BC-restful-api-%E5%8F%88%E6%98%AF%E4%BB%80%E9%BA%BC-a001a85ab638)
 10. [Fetch](https://developer.mozilla.org/zh-TW/docs/Web/API/Fetch_API/Using_Fetch)
 11. 正則 [Regular Expression](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Guide/Regular_Expressions)
 12. [arrFn](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Functions/Arrow_functions) (沒有自己的[this](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/this)、[arguments](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Functions/arguments)、[super](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/super)、new.target )
