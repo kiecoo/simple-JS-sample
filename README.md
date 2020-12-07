@@ -133,7 +133,7 @@ var u2 = new u1();
 ---
 
 ## Vue
-- [v-bind](https://vuejs.org/v2/guide/class-and-style.html)
+- v-bind
 - [v-on](https://vuejs.org/v2/guide/events.html)
 - [v-if](https://vuejs.org/v2/guide/conditional.html) . [v-for](https://vuejs.org/v2/guide/list.html)
 - [v-model](https://vuejs.org/v2/guide/forms.html)
