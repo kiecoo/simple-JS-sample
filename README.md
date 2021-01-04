@@ -134,7 +134,7 @@ var u2 = new u1();
 
 ## Vue
 - v-bind
-- [v-on](https://vuejs.org/v2/guide/events.html)
+- v-on
 - [v-if](https://vuejs.org/v2/guide/conditional.html) . [v-for](https://vuejs.org/v2/guide/list.html)
 - [v-model](https://vuejs.org/v2/guide/forms.html)
 - [computed](https://vuejs.org/v2/guide/computed.html#Computed-Properties)([Setter](https://vuejs.org/v2/guide/computed.html#Computed-Setter))
