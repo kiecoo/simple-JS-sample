@@ -125,7 +125,7 @@ var u2 = new u1();
 7. Module
 8. Deep Copy___blog
 9. RESTful
-10. [Fetch](https://developer.mozilla.org/zh-TW/docs/Web/API/Fetch_API/Using_Fetch)
+10. Fetch
 11. 正則 [Regular Expression](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Guide/Regular_Expressions)
 12. [arrFn](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Functions/Arrow_functions) (沒有自己的[this](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/this)、[arguments](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Functions/arguments)、[super](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/super)、new.target )
 13. [setTimeout](https://developer.mozilla.org/zh-CN/docs/Web/API/Window/setTimeout)、[setInterval](https://www.w3schools.com/jsref/met_win_setinterval.asp)
