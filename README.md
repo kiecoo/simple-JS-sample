@@ -135,7 +135,7 @@ var u2 = new u1();
 ## Vue
 - v-bind
 - v-on
-- [v-if](https://vuejs.org/v2/guide/conditional.html) . [v-for](https://vuejs.org/v2/guide/list.html)
+- [v-if](https://vuejs.org/v2/guide/conditional.html) . v-for
 - [v-model](https://vuejs.org/v2/guide/forms.html)
 - [computed](https://vuejs.org/v2/guide/computed.html#Computed-Properties)([Setter](https://vuejs.org/v2/guide/computed.html#Computed-Setter))
 - [Prop](https://vuejs.org/v2/guide/components-props.html) ([Prop Validation](https://vuejs.org/v2/guide/components-props.html#Prop-Validation). [$attrs](https://vuejs.org/v2/guide/components-props.html#Disabling-Attribute-Inheritance)). [Emit](https://vuejs.org/v2/guide/components-custom-events.html)（[.native](https://vuejs.org/v2/guide/components-custom-events.html#Binding-Native-Events-to-Components) & [.sync](https://vuejs.org/v2/guide/components-custom-events.html#sync-Modifier)）
