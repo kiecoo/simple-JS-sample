@@ -128,8 +128,7 @@ var u2 = new u1();
 10. Fetch
 11. 正則 Regular Expression
 12. arrFn (沒有自己的this、arguments、super、new.target )
-13. setTimeout、[setInterval](https://www.w3schools.com/jsref/met_win_setinterval.asp)
-
+13. setTimeout、setInterval
 ---
 
 ## Vue
