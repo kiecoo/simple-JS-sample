@@ -136,7 +136,7 @@ var u2 = new u1();
 - v-on
 - v-if . v-for
 - v-model
-- computed([Setter](https://vuejs.org/v2/guide/computed.html#Computed-Setter))
+- computed(Setter)
 - [Prop](https://vuejs.org/v2/guide/components-props.html) ([Prop Validation](https://vuejs.org/v2/guide/components-props.html#Prop-Validation). [$attrs](https://vuejs.org/v2/guide/components-props.html#Disabling-Attribute-Inheritance)). [Emit](https://vuejs.org/v2/guide/components-custom-events.html)（[.native](https://vuejs.org/v2/guide/components-custom-events.html#Binding-Native-Events-to-Components) & [.sync](https://vuejs.org/v2/guide/components-custom-events.html#sync-Modifier)）
 - [Mixin](https://vuejs.org/v2/guide/mixins.html)
 - [Slot](https://vuejs.org/v2/guide/components-slots.html) 
