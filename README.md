@@ -137,7 +137,7 @@ var u2 = new u1();
 - v-if . v-for
 - v-model
 - computed(Setter)
-- Prop([Prop Validation](https://vuejs.org/v2/guide/components-props.html#Prop-Validation). [$attrs](https://vuejs.org/v2/guide/components-props.html#Disabling-Attribute-Inheritance)). [Emit](https://vuejs.org/v2/guide/components-custom-events.html)（[.native](https://vuejs.org/v2/guide/components-custom-events.html#Binding-Native-Events-to-Components) & [.sync](https://vuejs.org/v2/guide/components-custom-events.html#sync-Modifier)）
+- Prop(Prop Validation. [$attrs](https://vuejs.org/v2/guide/components-props.html#Disabling-Attribute-Inheritance)). [Emit](https://vuejs.org/v2/guide/components-custom-events.html)（[.native](https://vuejs.org/v2/guide/components-custom-events.html#Binding-Native-Events-to-Components) & [.sync](https://vuejs.org/v2/guide/components-custom-events.html#sync-Modifier)）
 - [Mixin](https://vuejs.org/v2/guide/mixins.html)
 - [Slot](https://vuejs.org/v2/guide/components-slots.html) 
 - [Vuex](https://vuex.vuejs.org/guide/) ( [State](https://vuex.vuejs.org/guide/state.html) / [Getters](https://vuex.vuejs.org/zh/guide/getters.html) / [Mutations](https://vuex.vuejs.org/zh/guide/mutations.html) / [Actions](https://vuex.vuejs.org/guide/actions.html) )（[namespace](https://vuex.vuejs.org/guide/modules.html#namespacing)）
