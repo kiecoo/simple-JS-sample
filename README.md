@@ -140,7 +140,7 @@ var u2 = new u1();
 - Prop(Prop Validation. $attrs). Emit（.native & .sync）
 - Mixin
 - Slot
-- [Vuex](https://vuex.vuejs.org/guide/) ( [State](https://vuex.vuejs.org/guide/state.html) / [Getters](https://vuex.vuejs.org/zh/guide/getters.html) / [Mutations](https://vuex.vuejs.org/zh/guide/mutations.html) / [Actions](https://vuex.vuejs.org/guide/actions.html) )（[namespace](https://vuex.vuejs.org/guide/modules.html#namespacing)）
+- [Vuex](https://vuex.vuejs.org/guide/) ( State/ [Getters](https://vuex.vuejs.org/zh/guide/getters.html) / [Mutations](https://vuex.vuejs.org/zh/guide/mutations.html) / [Actions](https://vuex.vuejs.org/guide/actions.html) )（[namespace](https://vuex.vuejs.org/guide/modules.html#namespacing)）
 - [Module](https://vuex.vuejs.org/guide/modules.html)
 - [Vue Router](https://router.vuejs.org/) ( query / [params](https://router.vuejs.org/guide/essentials/navigation.html) . [Navigation Guards](https://router.vuejs.org/guide/advanced/navigation-guards.html).  [linkActiveClass](https://router.vuejs.org/api/#linkactiveclass).  [active-class](https://router.vuejs.org/api/#active-class).[passing-props](https://router.vuejs.org/guide/essentials/passing-props.html#passing-props-to-route-components))
 - [Watch](https://vuejs.org/v2/api/#vm-watch)
