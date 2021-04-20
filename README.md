@@ -149,7 +149,7 @@ var u2 = new u1();
 vm.$watch( expOrFn, callback, [options] )
 ```
 - Life Cycle ( Hook function )
-- vue 3（ [composition api](https://composition-api.vuejs.org/#api-introduction) . $attrs . [conditional rendering](https://v3.vuejs.org/guide/conditional.html#conditional-rendering) . communicating Events . [Event Handling](https://v3.vuejs.org/guide/events.html) .  [Class and Style Bindings](https://v3.vuejs.org/guide/class-and-style.html) ）
+- vue 3（ composition api. $attrs . [conditional rendering](https://v3.vuejs.org/guide/conditional.html#conditional-rendering) . communicating Events . [Event Handling](https://v3.vuejs.org/guide/events.html) .  [Class and Style Bindings](https://v3.vuejs.org/guide/class-and-style.html) ）
 
 - ES6 (in Vue): [Spread Operator](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Operators/Spread_syntax) . Destructuring assignment . [Class](https://github.com/ruanyf/es6tutorial/blob/04dddb2d7c34cbcd90a0bd1f027835bd744bf827/docs/class.md) ( constructor , ...... ) . [Module](https://github.com/ruanyf/es6tutorial/blob/04dddb2d7c34cbcd90a0bd1f027835bd744bf827/docs/module.md) .Scope
 
