@@ -143,7 +143,7 @@ var u2 = new u1();
 - Vuex ( State/ Getters / Mutations/ Actions )（namespace）
 - Module
 - Vue Router ( query / params . Navigation Guards.  linkActiveClass.  active-class.passing-props)
-- [Watch](https://vuejs.org/v2/api/#vm-watch)
+- Watch
 - [slot](https://vuejs.org/v2/guide/components-slots.html)(v-slot . Scoped Slots)
 ```
 vm.$watch( expOrFn, callback, [options] )
