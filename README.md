@@ -144,7 +144,7 @@ var u2 = new u1();
 - Module
 - Vue Router ( query / params . Navigation Guards.  linkActiveClass.  active-class.passing-props)
 - Watch
-- [slot](https://vuejs.org/v2/guide/components-slots.html)(v-slot . Scoped Slots)
+- slot(v-slot . Scoped Slots)
 ```
 vm.$watch( expOrFn, callback, [options] )
 ```
