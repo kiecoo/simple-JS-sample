@@ -173,7 +173,7 @@ vm.$watch( expOrFn, callback, [options] )
 ```
 
 # others
-- Scss(Syntax ,  mixin ,  [function](https://sass-lang.com/documentation/at-rules/function)  ,   [extend](https://sass-lang.com/documentation/at-rules/extend) ,   [variable](https://sass-lang.com/documentation/variables))
+- Scss(Syntax ,  mixin ,  function  ,   [extend](https://sass-lang.com/documentation/at-rules/extend) ,   [variable](https://sass-lang.com/documentation/variables))
 ```
 @mixin name(<arguments...>) { ... }
 
