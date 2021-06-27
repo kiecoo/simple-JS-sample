@@ -1,5 +1,6 @@
 # simple JS sample
 ---
+
 # keyword `this`＆ Vue
 
 ## (A) summary 
