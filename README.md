@@ -3,8 +3,6 @@
 
 # keyword `this`＆ Vue
 
-
-
 ## (A) summary 
 #### (A-1)  Priority
 
