@@ -6,8 +6,7 @@
 ## (A) summary 
 #### (A-1)  Priority
 
-0. < 例外 > 
-   arrow Function  ( 沒自己的 this)
+0. < 例外 > arrow Function  ( 沒自己的 this)
 
 1. new 構造函數
 2. apply、call、bind
