@@ -1,4 +1,4 @@
-# simple JS sample
+# simple JS   sample
 ---
 
 # keyword `this`＆ Vue
