@@ -94,6 +94,7 @@ fn.bind(obj, 'arg1', 'arg2')(); // 3. bind
 
 ```
 
+
 ```js
 
 function User(name, luckyNum) {
